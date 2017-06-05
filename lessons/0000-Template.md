@@ -13,3 +13,7 @@
 ## Resources
 
 * [Google](https://www.google.com)
+
+## Tests
+
+* The learner should ...
