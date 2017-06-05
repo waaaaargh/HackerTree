@@ -10,6 +10,11 @@
 * Bar
 * Baz
 
+## Requirements
+
+* Foo
+* Bar
+
 ## Resources
 
 * [Google](https://www.google.com)
