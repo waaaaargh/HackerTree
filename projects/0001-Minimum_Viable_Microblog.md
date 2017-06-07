@@ -2,7 +2,7 @@
 
 | ID    | Lesson Name              | Time for Completion   |
 |------ |------------------------- |---------------------- |
-| 0000  | Minimum Viable Microblog | 90 minutes            |
+| 0001  | Minimum Viable Microblog | 90 minutes            |
 
 ## Learning Goals
 
