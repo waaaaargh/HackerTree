@@ -2,7 +2,7 @@
 
 | ID    | Lesson Name         | Time for Completion   |
 |------ |-------------------- |---------------------- |
-| 0000  | Troll Proxy         | 90 minutes            |
+| 0002  | Troll Proxy         | 90 minutes            |
 
 ## Learning Goals
 
