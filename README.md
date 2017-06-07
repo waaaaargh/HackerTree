@@ -1,19 +1,19 @@
 # HackerTree
-A Skill tree for learning how to code.
+A "skill tree" for learning how to code.
 
 ## Concept
-Learning how to code can be challenging and long-winded. Although there are 
-some truly resources out there, they are scattered and often missing a thread.
+Learning how to code can be challenging and long-winded. Although there are
+some truly great resources out there, they are scattered and often missing a thread.
 
 ### Learning by Coding
-Although we realize that there is nothing more practical than a solid theory, 
+Although we realize that there is nothing more practical than solid theory,
 we also know from our own experience that learning how to code is best done by
-coding - That's why we want to get people to work on projects early in their
+coding - and that's why we want to get people to work on projects early in their
 learning process.
 
 ### Choose Your Own Adventure
 We also realize that different people are driven by different things, which is
-why - except for a very minimal "Beginners' track", every track will be modular.
+why - except for a very minimal "Beginners' Track" - every track will be modular.
 
 ### Work On Your Own Pace
 Even when getting into a huge project like learning how to code, the commitment
@@ -50,8 +50,8 @@ be taught in 90 minutes should be split up in smaller chunks.
 ## How to contribute
 
 When contributing, please keep in mind that the project is at a conceptual 
-stage. Currently, we are collecting ideas and ressources, not building a
+stage. Currently, we are collecting ideas and resources, not building a
 platform.
 
-If you want to add your Ideas to the corresponding folder, using templates
+If you want to add your ideas to the corresponding folder, using templates
 if one is in place.
